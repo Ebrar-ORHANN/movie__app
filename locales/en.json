@@ -1,0 +1,104 @@
+{
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "tr": "Turkish",
+    "en": "English",
+    "current_language": "Current Language"
+  },
+  "home": {
+    "title": "Home",
+    "top_rated": "Top Rated",
+    "upcoming": "Upcoming",
+    "popular": "Popular",
+    "now_playing": "Now Playing",
+    "search_placeholder": "Search movie...",
+    "search_results": "Search Results",
+     "logout": "Logout",
+    "logout_title": "Log Out",
+    "logout_message": "Are you sure you want to log out?",
+    "cancel": "Cancel",
+    "welcome":"Welcome",
+     "load_more":"Loading"
+  },
+  "movieDetail": {
+    "loading": "Loading...",
+    "release_date": "Release Date",
+    "minutes": "min",
+    "summary": "Summary"
+  },
+  "favorites": {
+    "title": "Favorites",
+    "empty": "You haven't added any favorite movies yet"
+  },
+  "login": {
+    "welcome": "Welcome Back!",
+    "subtitle": "Sign in to continue watching your favorite movies",
+    "email_placeholder": "Enter your email",
+    "password_placeholder": "Enter your password",
+    "email_required": "Email is required",
+    "email_invalid": "Please enter a valid email",
+    "password_required": "Password is required",
+    "password_min_length": "Password must be at least 6 characters",
+    "forgot_password": "Forgot Password?",
+    "login_button": "Login",
+    "try_demo": "Try Demo Account",
+    "or": "OR",
+    "no_account": "Don't have an account?",
+    "sign_up": "Sign Up",
+    "success_title": "Login Successful",
+    "success_message": "Welcome! You have successfully logged in.",
+    "error_title": "Login Failed",
+    "error_message": "Invalid email or password. Please try again.",
+    "network_error": "Network error. Please check your connection.",
+    "ok": "OK",
+    "tmdb_login_button": "Login with TMDB ",
+    "title_up": "Login with TMDB ",
+    "username_placeholder":"Username of TMDB ",
+    "passwordplaceholder":"Password of TMDB",
+    "tmdb_login_message_bottom":"You can log in with your TMDB account. If you don't have an account, you can sign up for free at themoviedb.org."
+  },
+  "register": {
+    "create_account": "Create Account",
+    "subtitle": "Join the world of movies and start exploring",
+    "fullname_placeholder": "Full Name",
+    "email_placeholder": "Email address",
+    "password_placeholder": "Password",
+    "confirm_password_placeholder": "Confirm password",
+    "fullname_required": "Full name is required",
+    "fullname_min_length": "Full name must be at least 2 characters",
+    "email_required": "Email address is required",
+    "email_invalid": "Invalid email address",
+    "password_required": "Password is required",
+    "password_weak": "Password must be at least 8 characters with uppercase, lowercase and number",
+    "confirm_password_required": "Password confirmation is required",
+    "passwords_not_match": "Passwords do not match",
+
+    "password_medium": "Medium",
+    "password_good": "Good",
+    "password_strong": "Strong",
+    "agree_to": "I agree to the",
+    "terms_of_service": "Terms of Service",
+    "and": "and",
+    "privacy_policy": "Privacy Policy",
+    "terms_required": "You must agree to the terms of service",
+    "create_account_button": "Create Account",
+    "or": "or",
+    "have_account": "Already have an account?",
+    "sign_in": "Sign In",
+    "success_title": "Success!",
+    "success_message": "Your account has been successfully created. You can now sign in.",
+    "error_title": "Error",
+    "network_error": "A network error occurred. Please try again.",
+    "ok": "OK"
+  },
+   "search":{
+    "title":"Discovery Movie..🔍"
+  },
+    
+    "logout": "Logout",
+    "logout_title": "Log Out",
+    "logout_message": "Are you sure you want to log out?",
+    "cancel": "Cancel"
+  
+ }

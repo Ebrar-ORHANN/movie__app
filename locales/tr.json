@@ -1,0 +1,111 @@
+{
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "tr": "Türkçe",
+    "en": "İngilizce",
+    "current_language": "Mevcut Dil"
+  },
+  "home": {
+    "title": "Ana Sayfa",
+    "top_rated": "En İyi Puanlananlar",
+    "upcoming": "Yakında Gelecekler",
+    "popular": "Popüler",
+    "now_playing": "Vizyondakiler",
+    "search_placeholder": "Film ara...",
+    "search_results": "Arama Sonuçları",
+    "logout": "Çıkış",
+    "logout_title": "Çıkış Yap",
+    "logout_message": "Çıkış yapmak istediğinizden emin misiniz?",
+    "cancel": "İptal",
+    "welcome":"Hoş Geldiniz",
+    "load_more":"Yükleniyor"
+    
+  
+  },
+  "movieDetail": {
+    "loading": "Yükleniyor...",
+    "release_date": "Yayın Tarihi",
+    "minutes": "dk",
+    "summary": "Özet"
+  },
+  "favorites": {
+    "title": "Favoriler",
+    "empty": "Henüz favori film eklemediniz",
+    "movieCount":"Favori Film Sayısı"
+  },
+  "register": {
+    "create_account": "Hesap Oluştur",
+    "subtitle": "Film dünyasına katılın ve keşfetmeye başlayın",
+    "fullname_placeholder": "Ad Soyad",
+    "email_placeholder": "E-posta adresi",
+    "password_placeholder": "Şifre",
+    "confirm_password_placeholder": "Şifre tekrar",
+    "fullname_required": "Ad soyad gereklidir",
+    "fullname_min_length": "Ad soyad en az 2 karakter olmalıdır",
+    "email_required": "E-posta adresi gereklidir",
+    "email_invalid": "Geçersiz e-posta adresi",
+    "password_required": "Şifre gereklidir",
+    "password_weak": "Şifre en az 8 karakter, büyük harf, küçük harf ve rakam içermelidir",
+    "confirm_password_required": "Şifre tekrarı gereklidir",
+    "passwords_not_match": "Şifreler eşleşmiyor",
+    "password_medium": "Orta",
+    "password_good": "İyi",
+    "password_strong": "Güçlü",
+    "agree_to": "Kabul ediyorum:",
+    "terms_of_service": "Hizmet Şartları",
+    "and": "ve",
+    "privacy_policy": "Gizlilik Politikası",
+    "terms_required": "Hizmet şartlarını kabul etmelisiniz",
+    "create_account_button": "Hesap Oluştur",
+    "or": "veya",
+    "have_account": "Zaten hesabınız var mı?",
+    "sign_in": "Giriş Yap",
+    "success_title": "Başarılı!",
+    "success_message": "Hesabınız başarıyla oluşturuldu. Şimdi giriş yapabilirsiniz.",
+    "error_title": "Hata",
+    "network_error": "Ağ hatası oluştu. Lütfen tekrar deneyin.",
+    "ok": "Tamam"
+  }, 
+    "login": {
+    "success_title": "Başarılı!",
+    "success_message": "Giriş başarılı",
+    "error_title": "Hata",
+    "network_error": "Ağ hatası oluştu. Lütfen tekrar deneyin.",
+    "ok": "Tamam",
+    "welcome": "Hoş Geldiniz",
+    "subtitle": "Hesabınıza giriş yapın",
+    "email_placeholder": "E-posta adresi",
+    "password_placeholder": "Şifre",
+    "email_required": "E-posta adresi gereklidir",
+    "email_invalid": "Geçersiz e-posta adresi",
+    "password_required": "Şifre gereklidir",
+    "password_min_length": "Şifre en az 6 karakter olmalıdır",
+    "forgot_password": "Şifremi Unuttum",
+    "login_button": "Giriş Yap",
+    "try_demo": "Demo Hesap Dene",
+    "or": "veya",
+    "no_account": "Hesabınız yok mu?",
+    "sign_up": "Kayıt Ol",
+    "tmdb_login_button": "TMDB ile giriş",
+    "title_up":"TMDB ile Giriş",
+    "username_placeholder":"TMDB Kullanıcı Adı",
+    "passwordplaceholder":"TMDB Şifre",
+    "tmdb_login_message_bottom":"TMDB hesabınızla giriş yapabilirsiniz. Hesabınız yoksa themoviedb.org adresinden ücretsiz kayıt olabilirsiniz."
+  },
+  "search":{
+    "title":"Film Keşfi..🔍"
+  },
+  "logout":{
+    "title": "Film Uygulaması",
+    "logout": "Çıkış",
+    "logout_title": "Çıkış Yap",
+    "logout_message":"Çıkış yapmak istediğinizden emin misiniz?",
+    "cancel": "İptal" 
+  },
+  "category": {
+    "no_more_movies": "Daha fazla film yok",
+    "all_movies_loaded": "Tüm filmler yüklendi"
+  }
+}      
+            
