@@ -81,7 +81,7 @@ export default function Login() {
               <Ionicons name="lock-closed-outline" size={20} color="#666" style={styles.inputIcon} />
               <TextInput
                 style={styles.textInput}
-                placeholder={t('login.passwordplaceholder')}
+               placeholder={t('login.passwordplaceholder')}
                 value={tmdbPassword}
                 onChangeText={setTmdbPassword}
                 secureTextEntry={!showTmdbPassword}

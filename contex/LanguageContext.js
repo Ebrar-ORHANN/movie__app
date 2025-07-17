@@ -4,10 +4,9 @@ import i18n from '../i18n/i18n';
 const LanguageContext = createContext();
 
 export const LanguageProvider = ({ children }) => {
-  // i18n'den gelen dili kontrol et ve uygun formata çevir
+
   const getInitialLanguage = () => {
     const currentLang = i18n.language || 'tr';
-    // Sadece dil kodunu al (tr-TR -> tr, en-US -> en)
     return currentLang.split('-')[0];
   };
 
@@ -15,11 +14,7 @@ export const LanguageProvider = ({ children }) => {
 
   const changeLanguage = (lang) => {
     console.log('Language changing to:', lang);
-    
-    // i18n dilini değiştir
     i18n.changeLanguage(lang);
-    
-    // Context state'ini güncelle
     setLanguage(lang);
   };
 
@@ -29,7 +24,6 @@ export const LanguageProvider = ({ children }) => {
     </LanguageContext.Provider>
   );
 };
-
 export const useLanguage = () => {
   const context = useContext(LanguageContext);
   if (!context) {
