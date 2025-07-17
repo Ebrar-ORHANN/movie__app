@@ -53,4 +53,4 @@ npx expo start
 
 | Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
 |-------------|-----------|------------|-----------|
-| ![Giriş](./assets/images/image1.jpg) | ![Ana Sayfa](./assets/images/image2.jpg) | ![Detay](./assets/images/image3.jpg) | ![Favoriler](./assets/images/image4.jpg) |
+| ![Giriş](assets/images/image1.jpg) | ![Ana Sayfa](assets/images/image2.jpg) | ![Detay](assets/images/image3.jpg) | ![Favoriler](assets/images/image4.jpg) |
