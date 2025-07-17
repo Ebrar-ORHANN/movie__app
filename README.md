@@ -8,10 +8,10 @@ Movie__APP, [TMDB API](https://www.themoviedb.org/documentation/api) ile entegre
   Kullanıcılar TMDB kullanıcı adı ve şifresiyle uygulamaya giriş yapar.
 
 -  **Film Kategorileri**  
-  - Popüler  
-  - En İyi Puanlanan  
-  - Yakında Gelecek  
-  - Şu Anda Vizyonda  
+    Popüler  
+    En İyi Puanlanan  
+    Yakında Gelecek  
+    Şu Anda Vizyonda  
   Kategoriler TMDB'den canlı veriler çekilir.
 
 -  **Detay Sayfası**  
