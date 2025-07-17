@@ -32,10 +32,11 @@ Movie__APP, [TMDB API](https://www.themoviedb.org/documentation/api) ile entegre
 - React Navigation
 - i18n-js (Çoklu Dil Desteği)
   
-## Görseller
+## Uygulama Görselleri
+
 | Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
 |-------------|-----------|------------|-----------|
-| ![Giriş](assets/images/image1.jpg) | ![Ana Sayfa](assets/images/image2.jpg) | ![Detay](assets/images/image3.jpg) | ![Favoriler](assets/images/image4.jpg) |
+| ![Giriş](assets/images/image1.jpg) | ![Ana Sayfa](assets/images/image2.jpg) | ![Detay](assets/images/image5.jpg) | ![Favoriler](assets/images/image3.jpg) |
 
 ##  Kurulum
 
@@ -52,8 +53,6 @@ npm install
 # 4. Projeyi başlat
 npx expo start
 
-## 📸 Ekran Görüntüleri
 
-## 📸 Ekran Görüntüleri 
 
 
