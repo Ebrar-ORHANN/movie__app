@@ -31,6 +31,11 @@ Movie__APP, [TMDB API](https://www.themoviedb.org/documentation/api) ile entegre
 - Context API (Global State Yönetimi)
 - React Navigation
 - i18n-js (Çoklu Dil Desteği)
+  
+## Görseller
+| Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
+|-------------|-----------|------------|-----------|
+| ![Giriş](assets/images/image1.jpg) | ![Ana Sayfa](assets/images/image2.jpg) | ![Detay](assets/images/image3.jpg) | ![Favoriler](assets/images/image4.jpg) |
 
 ##  Kurulum
 
@@ -49,8 +54,6 @@ npx expo start
 
 ## 📸 Ekran Görüntüleri
 
-## 📸 Ekran Görüntüleri ```
+## 📸 Ekran Görüntüleri 
 
-| Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
-|-------------|-----------|------------|-----------|
-| ![Giriş](assets/images/image1.jpg) | ![Ana Sayfa](assets/images/image2.jpg) | ![Detay](assets/images/image3.jpg) | ![Favoriler](assets/images/image4.jpg) |
+
