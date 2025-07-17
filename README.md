@@ -49,7 +49,7 @@ npx expo start
 
 ## 📸 Ekran Görüntüleri
 
-## 📸 Ekran Görüntüleri
+## 📸 Ekran Görüntüleri ```
 
 | Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
 |-------------|-----------|------------|-----------|
