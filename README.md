@@ -49,6 +49,8 @@ npx expo start
 
 ## 📸 Ekran Görüntüleri
 
-| Giriş Ekranı| Ana Sayfa | Film Detay | Favoriler |
-|-----------|------------|-----------|
-| ![ss0](./assets/images/image1.jpg) | ![ss1](./assets/images/image2.jpg)| ![ss2](./assets/images/image5.jpg) ![ss3](./assets/images/image4.jpg) |
+## 📸 Ekran Görüntüleri
+
+| Giriş Ekranı | Ana Sayfa | Film Detay | Favoriler |
+|-------------|-----------|------------|-----------|
+| ![Giriş](./assets/images/image1.jpg) | ![Ana Sayfa](./assets/images/image2.jpg) | ![Detay](./assets/images/image3.jpg) | ![Favoriler](./assets/images/image4.jpg) |
